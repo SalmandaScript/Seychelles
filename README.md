@@ -1,0 +1,2 @@
+# Seychelles
+Republic of Seychelles.
