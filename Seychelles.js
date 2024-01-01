@@ -98,6 +98,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function senegal(){
+open("https://salmandascript.github.io/Senegal/Senegal.html");
+}
+
+//previous page 
+function sierraLeone(){
+open("https://salmandascript.github.io/SierraLeone/SierraLeone.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
